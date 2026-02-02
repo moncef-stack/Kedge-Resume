@@ -1,0 +1,21 @@
+/* Write some CSS below */
+body{
+	background-color: #00B7B5;
+	margin: 80px;
+    padding: 40px;
+}
+
+.container{
+	background-color: #F4F4F4;
+	border-radius: 3%;
+	text-align: justify;
+	font-family: Helvetica;
+	font-size: 20px;
+	padding: 6px;
+}
+
+#moi {
+	border-radius: 50%;
+	width: 200px;
+    height: 150px;
+}
